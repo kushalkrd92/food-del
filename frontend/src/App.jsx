@@ -7,7 +7,7 @@ import { useState } from "react";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
 import Verify from "./pages/verify/Verify";
 import MyOrders from "./pages/myOrders/MyOrders";
-import Home from "./pages/home/Home";
+import Home from "./pages/home/home";
 
 const App = () => {
 
